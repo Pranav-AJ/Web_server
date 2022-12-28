@@ -55,7 +55,7 @@ httpd = HTTPServer(server_address, Hellohandler)
 httpd.serve_forever()
 ```
 # OUTPUT:
-![label](./frameworks.png)
+![label](/frameworks.png)
 # RESULT:
 
 The program is executed succesfully

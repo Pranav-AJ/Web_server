@@ -1,8 +1,7 @@
 # Developing a Simple Webserver
 
 # AIM:
-  A.J.PRANAV
-  22008772
+To develop a simple web server
 # DESIGN STEPS:
 
 ## Step 1:
